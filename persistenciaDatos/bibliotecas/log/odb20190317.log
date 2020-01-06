@@ -1,0 +1,341 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 18:23:14 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 11888@DESKTOP-CAJ4QJJ
+
+[2019-03-17 18:23:14 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:13:07 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' has been recovered (tr. 1-2)
+
+[2019-03-17 19:13:07 #2 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 8140@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:13:07 #3 store] 
+Configuration path: ?
+
+[2019-03-17 19:13:11 #4 type.registry] 
+New type modelos.Libro
+
+[2019-03-17 19:13:11 #5 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:13:11 #6 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 8140@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:16:12 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 16064@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:16:12 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:16:12 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:16:15 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 16064@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:16:37 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 18144@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:16:37 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:16:38 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:16:41 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 18144@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:17:17 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 13480@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:17:17 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:17:17 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:17:21 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 13480@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:25:04 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 5160@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:25:04 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:25:04 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:25:09 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 5160@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:31:23 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 17752@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:31:23 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:31:23 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:31:29 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 17752@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:40:33 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 3300@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:40:33 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:40:33 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:40:43 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 3300@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:41:12 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 1980@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:41:12 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:41:12 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:41:19 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 1980@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:41:47 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 15372@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:41:47 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:41:47 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:41:53 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 15372@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:42:36 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 15592@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:42:36 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:42:36 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:42:57 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 15592@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:44:06 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 15320@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:44:06 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:44:06 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:44:11 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 15320@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:46:41 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 12316@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:46:41 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:46:41 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 19:47:17 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 12316@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:50:06 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 15224@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:50:06 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:50:06 #3 type] 
+Type modelos.Libro is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:53:15 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 12008@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:53:15 #2 store] 
+Configuration path: ?
+
+[2019-03-17 19:53:15 #3 type] 
+Type modelos.Libro is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 19:59:47 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' has been recovered (tr. 5-5)
+
+[2019-03-17 19:59:47 #2 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 11860@DESKTOP-CAJ4QJJ
+
+[2019-03-17 19:59:47 #3 store] 
+Configuration path: ?
+
+[2019-03-17 19:59:47 #4 type] 
+Type modelos.Libro is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 20:01:33 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 1332@DESKTOP-CAJ4QJJ
+
+[2019-03-17 20:01:33 #2 store] 
+Configuration path: ?
+
+[2019-03-17 20:01:33 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 20:02:19 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 1332@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 20:02:30 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 5864@DESKTOP-CAJ4QJJ
+
+[2019-03-17 20:02:30 #2 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 20:06:32 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' has been recovered (tr. 1-2)
+
+[2019-03-17 20:06:33 #2 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 16688@DESKTOP-CAJ4QJJ
+
+[2019-03-17 20:06:33 #3 store] 
+Configuration path: ?
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 20:06:50 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 15736@DESKTOP-CAJ4QJJ
+
+[2019-03-17 20:06:50 #2 store] 
+Configuration path: ?
+
+[2019-03-17 20:06:54 #3 type.registry] 
+New type modelos.Libro
+
+[2019-03-17 20:06:54 #4 type] 
+Type modelos.Libro is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 20:16:23 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' has been recovered (tr. 1-4)
+
+[2019-03-17 20:16:23 #2 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 16692@DESKTOP-CAJ4QJJ
+
+[2019-03-17 20:16:23 #3 store] 
+Configuration path: ?
+
+[2019-03-17 20:16:23 #4 type] 
+Type modelos.Libro is not enhanced.
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 20:16:43 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 17280@DESKTOP-CAJ4QJJ
+
+[2019-03-17 20:16:43 #2 store] 
+Configuration path: ?
+
+[2019-03-17 20:16:46 #3 type.registry] 
+New type modelos.Libro
+
+[2019-03-17 20:16:46 #4 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 20:17:02 #5 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 17280@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 20:17:07 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 17532@DESKTOP-CAJ4QJJ
+
+[2019-03-17 20:17:07 #2 store] 
+Configuration path: ?
+
+[2019-03-17 20:17:07 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 20:19:14 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 17532@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 22:08:45 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 6376@DESKTOP-CAJ4QJJ
+
+[2019-03-17 22:08:45 #2 store] 
+Configuration path: ?
+
+[2019-03-17 22:09:26 #3 type.registry] 
+New type modelos.Libro
+
+[2019-03-17 22:09:26 #4 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 22:14:22 #5 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 6376@DESKTOP-CAJ4QJJ
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2019-03-17 22:14:28 #1 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is opened by 8072@DESKTOP-CAJ4QJJ
+
+[2019-03-17 22:14:28 #2 store] 
+Configuration path: ?
+
+[2019-03-17 22:14:28 #3 type] 
+Type modelos.Libro is not enhanced.
+
+[2019-03-17 22:18:09 #4 store] 
+Database 'E:\NetBeansProjects\persistenciaDatos\libros.odb' is closed by 8072@DESKTOP-CAJ4QJJ
+
